@@ -1,0 +1,2 @@
+MaxPasswordLength: 4;
+AdmissibleSymbols: abcdefghijklmnopqrstuvwxyz0123456789;
